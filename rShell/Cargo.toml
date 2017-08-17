@@ -1,0 +1,17 @@
+[package]
+name = "rShell"
+version = "0.1.0"
+authors = ["WORK\\shenhuan <shenhuan@9000.com>"]
+
+[dependencies]
+piston_window = "*"
+find_folder = "*"
+conrod = "0.54.0"
+
+[features]
+
+
+#[[example]]
+[dev-dependencies]
+winit = "0.7"
+
